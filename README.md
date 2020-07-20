@@ -1,4 +1,4 @@
 # Hello-World
 Just another repository
 
-I'm writing an example comit here
+I'm writing an example commit here
